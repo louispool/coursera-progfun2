@@ -2,8 +2,6 @@ package streams
 
 import common._
 
-import scala.reflect.macros.blackbox
-
 /**
  * This component implements the solver for the Bloxorz game
  */
