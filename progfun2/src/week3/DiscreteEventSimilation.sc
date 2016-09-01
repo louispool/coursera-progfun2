@@ -151,6 +151,8 @@ run()
 in2.setSignal(true)
 run()
 
+in1.setSignal(false)
+run()
 
 
 
