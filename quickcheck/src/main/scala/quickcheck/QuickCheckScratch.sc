@@ -121,7 +121,5 @@ val myProp = forAll { l: List[Int] =>
 }
 myProp.check
 
-//Gen Heap
-
 
 
